@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Sodicek
 - 👀 I’m interested in coding, learning new things
-- 🌱 I’m currently learning javascript and c++
+- 🌱 I’m currently learning javascript and lua
 - 📫 You can reach me at ✨Discord - soda#7460 or ✨Telegram - @Sodovka
