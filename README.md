@@ -1,3 +1,2 @@
-- 👋 Hi, I’m @Sodicek
-- 🌱 I’m currently learning C# and lua
-- 📫 You can reach me at ✨Discord - soda#7460 or ✨Telegram - @Sodovka
+- 👋 Hi, I’m @Soda
+- Lua and C# enthusiast
