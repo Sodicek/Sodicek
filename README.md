@@ -1,7 +1,8 @@
 ﻿# Hey, I'm Sodicek 👋
 
-C#/.NET developer with a professional background in PKI, digital certificates, and electronic signatures.
-I build desktop apps, security tools, and terminal utilities in my spare time.
+C#/.NET hobby developer with a professional background in PKI, digital certificates, and electronic signatures.
+
+In my free time, I build desktop applications, security tools, and terminal utilities.
 
 **Tech:** C# · .NET · WPF · PowerShell · GitHub Actions · PKI · Certificates · CLI/TUI
 
