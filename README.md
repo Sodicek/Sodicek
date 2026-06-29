@@ -15,7 +15,3 @@ Cross-platform terminal cleaner for Windows/Linux/macOS — preview mode, 21 cle
 
 ### 🔑 [Random Password Generator](https://github.com/Sodicek/Random-Password-Generator)
 Lightweight C# CLI for generating cryptographically random passwords.
-
----
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sodicek&show_icons=true&theme=transparent)
