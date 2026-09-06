@@ -1,18 +1,21 @@
-# Ahoj, jsem Sodicek 👋
+# Hey, I'm Sodicek 👋
 
-C#/.NET vývojář z koníčka s profesní praxí v oblasti PKI, digitálních certifikátů a elektronických podpisů.
+C#/.NET hobby developer with a professional background in PKI, digital certificates, and electronic signatures.
 
-Ve volném čase vytvářím desktopové aplikace, bezpečnostní nástroje a terminálové utility.
+In my free time, I build desktop applications, security tools, and terminal utilities.
 
-**Tech:** C# · .NET · WPF · Avalonia · PowerShell · GitHub Actions · PKI · Certifikáty · CLI/TUI
+**Tech:** C# · .NET · WPF · Avalonia · MVVM · SQLite/SQLCipher · PowerShell · GitHub Actions · PKI · Certificates · CLI/TUI
 
 ---
 
 ### 🔐 [SecureVault](https://github.com/Sodicek/SecureVault)
-Lokální šifrovaný správce hesel — úložiště trezoru, TOTP, generování hesel, kontrola úniků, automatické zamykání.
-
-### 🧹 [PC Cleaner](https://github.com/Sodicek/PC-Cleaner)
-Multiplatformní terminálový čistič pro Windows/Linux/macOS — náhledový režim, 21 čističů, automatická aktualizace.
+Local-first encrypted password manager — vault storage, TOTP, password gen, breach check, auto-lock.
 
 ### 🔑 [KeyForge](https://github.com/Sodicek/KeyForge)
-Multiplatformní (Windows/Linux/macOS) desktopový generátor hesel — ukazatel síly hesla, vyloučení matoucích znaků, automatické mazání schránky.
+Cross-platform (Windows/Linux/macOS) desktop password generator — strength meter, ambiguous-char exclusion, clipboard auto-clear.
+
+### 🧩 [CipherDeck](https://github.com/Sodicek/CipherDeck)
+Desktop app for exploring classic ciphers (Caesar, Vigenère, Atbash, and more) with live preview and operation history.
+
+### 🧹 [PC Cleaner](https://github.com/Sodicek/PC-Cleaner)
+Cross-platform terminal cleaner for Windows/Linux/macOS — preview mode, 21 cleaners, auto-update.
