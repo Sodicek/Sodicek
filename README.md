@@ -6,6 +6,9 @@ I'm a hobby developer with a professional background in **PKI, digital certifica
 
 ## Featured projects
 
+### 📲 [LAN Drop](https://github.com/Sodicek/LAN-Drop)
+A **local file-transfer app** connecting Windows with Android/iPhone browsers through QR pairing. Native WPF interface and English/Czech UI. **Early development preview** for trusted private networks.
+
 ### 🔐 [SecureVault](https://github.com/Sodicek/SecureVault)
 A local-first **Windows password manager** with an AES-GCM encrypted vault, TOTP, secure notes, optional breach checks, and automatic locking.
 
