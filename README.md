@@ -1,21 +1,29 @@
 # Hey, I'm Sodicek 👋
 
-C#/.NET hobby developer with a professional background in PKI, digital certificates, and electronic signatures.
+> C# / .NET · Desktop apps · Security tools · Terminal utilities
 
-In my free time, I build desktop applications, security tools, and terminal utilities.
+I'm a hobby developer with a professional background in **PKI, digital certificates, and electronic signatures**. In my free time, I turn ideas into practical desktop and terminal applications.
 
-**Tech:** C# · .NET · WPF · Avalonia · MVVM · SQLite/SQLCipher · PowerShell · GitHub Actions · PKI · Certificates · CLI/TUI
+## Featured projects
+
+### 🔐 [SecureVault](https://github.com/Sodicek/SecureVault)
+A local-first **Windows password manager** with an AES-GCM encrypted vault, TOTP, secure notes, optional breach checks, and automatic locking.
+
+### 🔑 [KeyForge](https://github.com/Sodicek/KeyForge)
+A **cross-platform password and passphrase generator** built with Avalonia. Includes entropy estimates, configurable generation, and automatic clipboard clearing.
+
+### 🧩 [CipherDeck](https://github.com/Sodicek/CipherDeck)
+A **Windows desktop playground for classic ciphers** — live previews, frequency analysis, step-by-step explanations, and cipher challenges.
+
+### 🧹 [PC Cleaner](https://github.com/Sodicek/PC-Cleaner)
+A **cross-platform terminal cleaner** for temporary files, browser caches, developer caches, and duplicates. Includes preview mode, scheduled cleaning, and an interactive TUI.
+
+## Toolbox
+
+- **Development:** C# · .NET · WPF · Avalonia · MVVM · Terminal.Gui
+- **Workflow:** PowerShell · Git · GitHub Actions
+- **Domain:** PKI · Digital certificates · Electronic signatures
 
 ---
 
-### 🔐 [SecureVault](https://github.com/Sodicek/SecureVault)
-Local-first encrypted password manager — vault storage, TOTP, password gen, breach check, auto-lock.
-
-### 🔑 [KeyForge](https://github.com/Sodicek/KeyForge)
-Cross-platform (Windows/Linux/macOS) desktop password generator — strength meter, ambiguous-char exclusion, clipboard auto-clear.
-
-### 🧩 [CipherDeck](https://github.com/Sodicek/CipherDeck)
-Desktop app for exploring classic ciphers (Caesar, Vigenère, Atbash, and more) with live preview and operation history.
-
-### 🧹 [PC Cleaner](https://github.com/Sodicek/PC-Cleaner)
-Cross-platform terminal cleaner for Windows/Linux/macOS — preview mode, 21 cleaners, auto-update.
+[Explore all my public repositories →](https://github.com/Sodicek?tab=repositories&type=public)
